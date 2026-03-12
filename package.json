@@ -2,10 +2,11 @@
   "name": "proverb-webapp",
   "version": "1.0.0",
   "private": true,
+  "description": "A tiny web app that shows a random proverb.",
   "scripts": {
     "start": "serve ."
   },
-  "devDependencies": {
+  "dependencies": {
     "serve": "^14.2.4"
   }
 }
